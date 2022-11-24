@@ -4,7 +4,7 @@
 - 📫 How to reach me
 -  https://github.com/Divyaveni 
 -  https://www.kaggle.com/divyavenimangalagiri...
--  www.linkedin.com/in/mangalagiri-divyaveni-851007219
+-  www.linkedin.com/in/m-divyaveni-851007219
 
 <!---
 Divyaveni/Divyaveni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
