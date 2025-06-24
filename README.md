@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Divyaveni Mangalagiri
+# 👋 Hi, I'm Divyaveni
 
 🎓 B.Tech in Computer Science & Engineering | @IIIT Kalyani  
 📍 Based in India | Aspiring AI/ML Engineer | Open to AI/ML/Data Science roles 
